@@ -15,6 +15,7 @@ int main()
 
     std::cout << "The perimeter is: " << perimeter << std::endl;
     std::cout << "The area is: " << area << std::endl;
+    std::cout << std::endl;
 
     return 0;
 }
